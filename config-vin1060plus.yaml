@@ -2,7 +2,7 @@ xinput_name: 10moons-pen
 vendor_id: 0x08f2
 product_id: 0x6811
 pen:
-    max_x: 4096     #moving the tablet pen as far right as possible (use "swap_direction_x:true" to invert if needed)
+    max_x: 6810     #moving the tablet pen as far right as possible (use "swap_direction_x:true" to invert if needed)
     max_y: 4096     #moving the tablet pen as far down as possible (use "swap_direction_y:true" to invert if needed)
     resolution_x: 1
     resolution_y: 1
